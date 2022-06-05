@@ -1,0 +1,6 @@
+1.	Create this application using Sqlite and django
+2.	Used basic html forms to input user data.
+3.	Created an virtual environment and activate it.
+4.	Used Sqlite to store data 
+5.	Had some difficulty generating a temporal graph showing the customer's income and expenditure for the last 12 months,
+ So created a table showing the customer's income and expenditure for the last 12 months
